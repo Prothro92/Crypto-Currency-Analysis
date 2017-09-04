@@ -1,0 +1,2 @@
+# Crypto-Currency-Analysis
+As I'm hearing more and more every day about the intricacies and potential of Crypto primarily Bitcoin/Ethereum, I became interested in doing some Stock Analysis of Bitcoin Currency pairings and it's relative volatility with other Crypto's on the market. This is a work in progress an I'm mainly still learning about the relevance of certain stock information and how this could correlate to a potential gain as an investor. Feel free to comment add on or use anything posted. Enjoy!
